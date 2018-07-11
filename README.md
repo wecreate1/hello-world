@@ -1,3 +1,3 @@
 # hello-world
-hallo everyone this is my github! *everyone cheers*
+hallo everyone this is my github! \*everyone cheers\*\n
 It's not much right now and it will probaly stay that way.
